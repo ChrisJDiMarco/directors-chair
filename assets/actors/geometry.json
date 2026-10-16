@@ -1,0 +1,27 @@
+[
+  {
+    "actor": "ella",
+    "source": "Female_Adult_05",
+    "mesh": "f005_hipoly_81_bones_opacity",
+    "vertices": 4570,
+    "triangles": 8288,
+    "materials": [
+      "f005_body",
+      "f005_head",
+      "f005_opacity",
+      "burgundy_jacket"
+    ]
+  },
+  {
+    "actor": "james",
+    "source": "Male_Adult_02",
+    "mesh": "m003_hipoly_81_bones_opacity",
+    "vertices": 4022,
+    "triangles": 7312,
+    "materials": [
+      "m003_body",
+      "m003_head",
+      "m003_opacity"
+    ]
+  }
+]

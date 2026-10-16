@@ -1,0 +1,138 @@
+{
+  "retrievedAt": "2026-09-06T04:14:08.690Z",
+  "license": "https://polyhaven.com/license",
+  "assets": [
+    {
+      "id": "brown_leather",
+      "source": "https://polyhaven.com/a/brown_leather",
+      "license": "CC0-1.0",
+      "maps": {
+        "Diffuse": {
+          "path": "brown_leather-Diffuse.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_leather/brown_leather_albedo_2k.jpg",
+          "bytes": 2137518
+        },
+        "Rough": {
+          "path": "brown_leather-Rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_leather/brown_leather_rough_2k.jpg",
+          "bytes": 2801956
+        },
+        "nor_gl": {
+          "path": "brown_leather-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_leather/brown_leather_nor_gl_2k.jpg",
+          "bytes": 3030702
+        }
+      }
+    },
+    {
+      "id": "wood_table_worn",
+      "source": "https://polyhaven.com/a/wood_table_worn",
+      "license": "CC0-1.0",
+      "maps": {
+        "nor_gl": {
+          "path": "wood_table_worn-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_table_worn/wood_table_worn_nor_gl_2k.jpg",
+          "bytes": 3142587
+        },
+        "Rough": {
+          "path": "wood_table_worn-Rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_table_worn/wood_table_worn_rough_2k.jpg",
+          "bytes": 2890891
+        },
+        "Diffuse": {
+          "path": "wood_table_worn-Diffuse.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_table_worn/wood_table_worn_diff_2k.jpg",
+          "bytes": 3108339
+        }
+      }
+    },
+    {
+      "id": "marble_01",
+      "source": "https://polyhaven.com/a/marble_01",
+      "license": "CC0-1.0",
+      "maps": {
+        "Rough": {
+          "path": "marble_01-Rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/marble_01/marble_01_rough_2k.jpg",
+          "bytes": 281388
+        },
+        "nor_gl": {
+          "path": "marble_01-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/marble_01/marble_01_nor_gl_2k.jpg",
+          "bytes": 409581
+        },
+        "Diffuse": {
+          "path": "marble_01-Diffuse.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/marble_01/marble_01_diff_2k.jpg",
+          "bytes": 1269188
+        }
+      }
+    },
+    {
+      "id": "metal_plate",
+      "source": "https://polyhaven.com/a/metal_plate",
+      "license": "CC0-1.0",
+      "maps": {
+        "nor_gl": {
+          "path": "metal_plate-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_nor_gl_2k.jpg",
+          "bytes": 2516654
+        },
+        "Diffuse": {
+          "path": "metal_plate-Diffuse.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_diff_2k.jpg",
+          "bytes": 2670774
+        },
+        "Rough": {
+          "path": "metal_plate-Rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate/metal_plate_rough_2k.jpg",
+          "bytes": 3045988
+        }
+      }
+    },
+    {
+      "id": "grey_plaster",
+      "source": "https://polyhaven.com/a/grey_plaster",
+      "license": "CC0-1.0",
+      "maps": {
+        "nor_gl": {
+          "path": "grey_plaster-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_plaster/grey_plaster_nor_gl_2k.jpg",
+          "bytes": 1237098
+        },
+        "Diffuse": {
+          "path": "grey_plaster-Diffuse.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_plaster/grey_plaster_diff_2k.jpg",
+          "bytes": 3216521
+        },
+        "Rough": {
+          "path": "grey_plaster-Rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_plaster/grey_plaster_rough_2k.jpg",
+          "bytes": 2736400
+        }
+      }
+    },
+    {
+      "id": "leather_white",
+      "source": "https://polyhaven.com/a/leather_white",
+      "license": "CC0-1.0",
+      "maps": {
+        "Diffuse": {
+          "path": "leather_white-Diffuse.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leather_white/leather_white_diff_2k.jpg",
+          "bytes": 3460639
+        },
+        "nor_gl": {
+          "path": "leather_white-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leather_white/leather_white_nor_gl_2k.jpg",
+          "bytes": 3176928
+        },
+        "Rough": {
+          "path": "leather_white-Rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leather_white/leather_white_rough_2k.jpg",
+          "bytes": 3142711
+        }
+      }
+    }
+  ]
+}

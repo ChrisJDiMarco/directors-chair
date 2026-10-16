@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-06T05:05:40.213Z",
+  "version": "0.4.0",
+  "sourceMatches": true,
+  "packagedChecks": 9,
+  "hashes": {
+    "app.js": "e7630b75feec4935bd280d15449acd389d0323d998285216daf653f64f101e56",
+    "scene.js": "9727d4406656cf01854849d837731a656e849cf09f63405b732d74f50dbfdc32",
+    "scene-editor.js": "c7884a3f8f08677d5ee17ba3507999ccb0a349059dd08048ed5e1acbbd0eb418",
+    "locations.js": "2e437a70cac327c63b58492711fd6ec779709be2143bc2f7b2139098dec1a43b",
+    "catalog.js": "7a9748818db83ac1771b8d27931672f498a988ee3cbe34fb59d260c94bd8c399",
+    "main.cjs": "6e5398941c2b4dd90d8203b68f5da88cd65c010bf7aff37ecebc703f698ecf47",
+    "preload.cjs": "6507c8b58b74fd643687cecd4c8ad5f4e9795c39bf04abbe5e553dab56a7462c",
+    "project.cjs": "811cdb2e9247ce9af4993f7bbdf751679affeda8a0c982ac2bbe1b7c095d6d8e",
+    "index.html": "814a7faf53f21c7990e407323391966d70ddd6bf1628c9bb7aaa86102b9cb890",
+    "style.css": "379028d5f89c9260895b60b99873cdae7afe5d7e842d540e6ed9b00406395b00"
+  }
+}

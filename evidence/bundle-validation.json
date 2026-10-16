@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-06T04:30:09.415Z",
+  "version": "0.2.0",
+  "sourceMatchesBundle": {
+    "app.js": true,
+    "scene.js": true,
+    "main.cjs": true,
+    "preload.cjs": true,
+    "index.html": true,
+    "style.css": true
+  },
+  "materialFiles": 18,
+  "packagedChecks": 26,
+  "packaged": true,
+  "appAsarSHA256": "d9505789862607028e287135b1c54b05157e51485087c7e9da82bc23cdd2b1cc"
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-06T04:48:35.957Z",
+  "version": "0.3.0",
+  "sourceMatches": true,
+  "hashes": {
+    "app.js": "bb13602931055dddd089a56855b7467c1174e258aed3adf72a17eb8db47c83f5",
+    "scene.js": "7b9ffc540edd75388519e0fedf0ea854c4a05ea9cd88dcaab6360f748fd50798",
+    "scene-editor.js": "bcd65ad9745ca2658576d9db70d483593f2f373ae17f1d6ed431614d074aac32",
+    "main.cjs": "eb602ed3f5dcb2a63675214f00fe32a58ea4ea5a537db9d93d5eb46b0b4283ec",
+    "preload.cjs": "6507c8b58b74fd643687cecd4c8ad5f4e9795c39bf04abbe5e553dab56a7462c",
+    "project.cjs": "8e54c2149e735c0d55ad94b1b71ec9163bb22c34265218b1f076dc3d70821cff",
+    "index.html": "fc40b238717f84516cfc0e24e989dcf9b252d148e3653726cf088dfc0c9e9488",
+    "style.css": "168e81f8092c725636666f9cbf6366223cae5d1768eaa0ee647597f5c2a69ceb"
+  }
+}

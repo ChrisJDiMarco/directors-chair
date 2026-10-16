@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-06T05:00:11.874Z",
+  "packaged": false,
+  "checks": [
+    "seven independently selectable light sources",
+    "position, aim, output, color, beam and softness controls",
+    "light enable and solo change rendered pixels",
+    "pointer drag moves a light through the 3D gizmo",
+    "duplicate and remove light",
+    "seated actor follows translated and rotated booth",
+    "table props follow parent furniture",
+    "custom flag placement and undo/redo",
+    "complete arrangement stored in takes and restored after reload"
+  ],
+  "errors": [],
+  "lightPixelDifference": 1935953
+}

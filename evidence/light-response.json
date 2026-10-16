@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-06T04:47:27.194Z",
+  "packaged": false,
+  "samples": [
+    {
+      "name": "near",
+      "mean": 198.8268229166668
+    },
+    {
+      "name": "far",
+      "mean": 125.03515625
+    },
+    {
+      "name": "flag",
+      "mean": 0
+    },
+    {
+      "name": "aim-away",
+      "mean": 0
+    }
+  ],
+  "passed": true
+}

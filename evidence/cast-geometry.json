@@ -1,0 +1,234 @@
+{
+  "date": "2026-09-06T05:00:45.352Z",
+  "rows": [
+    {
+      "sceneId": "diner",
+      "actors": [
+        {
+          "slot": 0,
+          "name": "Ella",
+          "standing": false,
+          "seat": 0,
+          "soleY": 0.0649999901202184,
+          "parent": ""
+        },
+        {
+          "slot": 1,
+          "name": "James",
+          "standing": false,
+          "seat": 1,
+          "soleY": 0.06500000808064987,
+          "parent": ""
+        }
+      ]
+    },
+    {
+      "sceneId": "loft",
+      "actors": [
+        {
+          "slot": 0,
+          "name": "Ella",
+          "standing": false,
+          "seat": 0,
+          "soleY": 0.07999999012021852,
+          "parent": ""
+        },
+        {
+          "slot": 1,
+          "name": "James",
+          "standing": false,
+          "seat": 1,
+          "soleY": 0.08000000808065,
+          "parent": ""
+        },
+        {
+          "slot": 2,
+          "name": "Maya",
+          "standing": false,
+          "seat": 2,
+          "soleY": 0.07999999012021852,
+          "parent": ""
+        }
+      ]
+    },
+    {
+      "sceneId": "interview",
+      "actors": [
+        {
+          "slot": 0,
+          "name": "Ella",
+          "standing": false,
+          "seat": 0,
+          "soleY": 0.0649999901202184,
+          "parent": ""
+        },
+        {
+          "slot": 1,
+          "name": "James",
+          "standing": false,
+          "seat": 1,
+          "soleY": 0.06500000808064987,
+          "parent": ""
+        }
+      ]
+    },
+    {
+      "sceneId": "rooftop",
+      "actors": [
+        {
+          "slot": 0,
+          "name": "Ella",
+          "standing": false,
+          "seat": 0,
+          "soleY": 0.06499999012021818,
+          "parent": ""
+        },
+        {
+          "slot": 1,
+          "name": "James",
+          "standing": false,
+          "seat": 1,
+          "soleY": 0.06500000808064998,
+          "parent": ""
+        },
+        {
+          "slot": 2,
+          "name": "Maya",
+          "standing": true,
+          "seat": 2,
+          "soleY": 0.06499999951823565,
+          "parent": "Diner"
+        },
+        {
+          "slot": 3,
+          "name": "Theo",
+          "standing": true,
+          "seat": 3,
+          "soleY": 0.06500000000000006,
+          "parent": "Diner"
+        },
+        {
+          "slot": 4,
+          "name": "Nora",
+          "standing": true,
+          "seat": 4,
+          "soleY": 0.06499999951823565,
+          "parent": "Diner"
+        },
+        {
+          "slot": 5,
+          "name": "Alex",
+          "standing": true,
+          "seat": 5,
+          "soleY": 0.06500000000000006,
+          "parent": "Diner"
+        },
+        {
+          "slot": 6,
+          "name": "Sam",
+          "standing": true,
+          "seat": 6,
+          "soleY": 0.06499999951823565,
+          "parent": "Diner"
+        },
+        {
+          "slot": 7,
+          "name": "Rowan",
+          "standing": true,
+          "seat": 7,
+          "soleY": 0.06500000000000006,
+          "parent": "Diner"
+        }
+      ]
+    },
+    {
+      "sceneId": "television",
+      "actors": [
+        {
+          "slot": 0,
+          "name": "Ella",
+          "standing": false,
+          "seat": 0,
+          "soleY": 0.0649999901202184,
+          "parent": ""
+        },
+        {
+          "slot": 1,
+          "name": "James",
+          "standing": false,
+          "seat": 1,
+          "soleY": 0.06500000808064998,
+          "parent": ""
+        },
+        {
+          "slot": 2,
+          "name": "Maya",
+          "standing": false,
+          "seat": 2,
+          "soleY": 0.0649999901202184,
+          "parent": ""
+        },
+        {
+          "slot": 3,
+          "name": "Theo",
+          "standing": false,
+          "seat": 3,
+          "soleY": 0.06500000808064998,
+          "parent": ""
+        },
+        {
+          "slot": 4,
+          "name": "Nora",
+          "standing": false,
+          "seat": 4,
+          "soleY": 0.0649999901202184,
+          "parent": ""
+        }
+      ]
+    }
+  ],
+  "framing": [
+    {
+      "x": -0.4801358190449169,
+      "y": 0.1815978782098158,
+      "z": 0.99337514386273
+    },
+    {
+      "x": 0.48051246557901917,
+      "y": 0.21332012884371018,
+      "z": 0.9933691620885302
+    },
+    {
+      "x": -0.591625135607197,
+      "y": 0.22229387082584934,
+      "z": 0.9914336716246025
+    },
+    {
+      "x": -0.3549750813643182,
+      "y": 0.22229387082584934,
+      "z": 0.9914336716246025
+    },
+    {
+      "x": -0.11832502712143939,
+      "y": 0.22229387082584934,
+      "z": 0.9914336716246025
+    },
+    {
+      "x": 0.11832502712143939,
+      "y": 0.22229387082584934,
+      "z": 0.9914336716246025
+    },
+    {
+      "x": 0.3549750813643182,
+      "y": 0.22229387082584934,
+      "z": 0.9914336716246025
+    },
+    {
+      "x": 0.591625135607197,
+      "y": 0.22229387082584934,
+      "z": 0.9914336716246025
+    }
+  ],
+  "stableIdentity": true,
+  "passed": true
+}

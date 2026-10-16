@@ -1,0 +1,348 @@
+{
+  "date": "2026-09-06T05:05:14.532Z",
+  "packaged": true,
+  "checks": [
+    "five-location browser",
+    "all fifteen scenarios load correct set and cast counts",
+    "stage and camera captures for four new worlds",
+    "cast limits, rename, appearance and removal",
+    "full-cast camera targeting and A/B bank recall",
+    "cast instances own independent skeletons",
+    "automatic playback switches location at the cut",
+    "cross-location takes and restart recovery",
+    "minimum Mac layout and no runtime errors"
+  ],
+  "metrics": [
+    {
+      "scenario": "goodbye",
+      "meshes": 345,
+      "triangles": 174474,
+      "actors": 2,
+      "pooledActors": 16,
+      "location": "diner",
+      "ready": true,
+      "camera": [
+        0.74,
+        2.1,
+        5.05
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 831,
+      "renderedTriangles": 373152,
+      "cpuSubmissionMs": 4.799999997019768
+    },
+    {
+      "scenario": "listening",
+      "meshes": 349,
+      "triangles": 224202,
+      "actors": 3,
+      "pooledActors": 16,
+      "location": "diner",
+      "ready": true,
+      "camera": [
+        -0.7999999999999999,
+        2.1,
+        9.862
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 791,
+      "renderedTriangles": 468708,
+      "cpuSubmissionMs": 4.600000001490116
+    },
+    {
+      "scenario": "family",
+      "meshes": 359,
+      "triangles": 361674,
+      "actors": 6,
+      "pooledActors": 16,
+      "location": "diner",
+      "ready": true,
+      "camera": [
+        0.7399999999999999,
+        2.1,
+        7.699999999999999
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 1557,
+      "renderedTriangles": 1501881,
+      "cpuSubmissionMs": 9.699999995529652
+    },
+    {
+      "scenario": "confession",
+      "meshes": 240,
+      "triangles": 110786,
+      "actors": 2,
+      "pooledActors": 16,
+      "location": "loft",
+      "ready": true,
+      "camera": [
+        -0.04999999999999993,
+        2.1,
+        6.120000000000001
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 3623,
+      "renderedTriangles": 2854141,
+      "cpuSubmissionMs": 106.10000000149012
+    },
+    {
+      "scenario": "truth",
+      "meshes": 244,
+      "triangles": 160514,
+      "actors": 3,
+      "pooledActors": 16,
+      "location": "loft",
+      "ready": true,
+      "camera": [
+        -0.14999999999999994,
+        2.1,
+        6.120000000000001
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 613,
+      "renderedTriangles": 350308,
+      "cpuSubmissionMs": 3.5
+    },
+    {
+      "scenario": "surprise",
+      "meshes": 251,
+      "triangles": 254114,
+      "actors": 5,
+      "pooledActors": 16,
+      "location": "loft",
+      "ready": true,
+      "camera": [
+        -0.75,
+        2.1,
+        8.95
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 594,
+      "renderedTriangles": 539632,
+      "cpuSubmissionMs": 3.7000000029802322
+    },
+    {
+      "scenario": "question",
+      "meshes": 84,
+      "triangles": 103382,
+      "actors": 2,
+      "pooledActors": 16,
+      "location": "interview",
+      "ready": true,
+      "camera": [
+        0,
+        2.1,
+        5.700000000000001
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 292,
+      "renderedTriangles": 230524,
+      "cpuSubmissionMs": 3
+    },
+    {
+      "scenario": "witness",
+      "meshes": 88,
+      "triangles": 153110,
+      "actors": 3,
+      "pooledActors": 16,
+      "location": "interview",
+      "ready": true,
+      "camera": [
+        -0.9166666666666666,
+        2.1,
+        9.75
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 252,
+      "renderedTriangles": 326080,
+      "cpuSubmissionMs": 2.7999999970197678
+    },
+    {
+      "scenario": "evidence",
+      "meshes": 81,
+      "triangles": 59510,
+      "actors": 1,
+      "pooledActors": 16,
+      "location": "interview",
+      "ready": true,
+      "camera": [
+        -1.5,
+        2.1,
+        5
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 285,
+      "renderedTriangles": 138556,
+      "cpuSubmissionMs": 2.5
+    },
+    {
+      "scenario": "dawn",
+      "meshes": 675,
+      "triangles": 116124,
+      "actors": 2,
+      "pooledActors": 16,
+      "location": "rooftop",
+      "ready": true,
+      "camera": [
+        0,
+        2.1,
+        9.26
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 951,
+      "renderedTriangles": 242532,
+      "cpuSubmissionMs": 4.199999995529652
+    },
+    {
+      "scenario": "deal",
+      "meshes": 682,
+      "triangles": 209724,
+      "actors": 4,
+      "pooledActors": 16,
+      "location": "rooftop",
+      "ready": true,
+      "camera": [
+        -1.1,
+        2.1,
+        11.909999999999998
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 951,
+      "renderedTriangles": 437652,
+      "cpuSubmissionMs": 4.5
+    },
+    {
+      "scenario": "farewell",
+      "meshes": 696,
+      "triangles": 396924,
+      "actors": 8,
+      "pooledActors": 16,
+      "location": "rooftop",
+      "ready": true,
+      "camera": [
+        0,
+        2.1,
+        11.909999999999998
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 983,
+      "renderedTriangles": 831540,
+      "cpuSubmissionMs": 4.799999997019768
+    },
+    {
+      "scenario": "first-interview",
+      "meshes": 140,
+      "triangles": 111794,
+      "actors": 2,
+      "pooledActors": 16,
+      "location": "television",
+      "ready": true,
+      "camera": [
+        -0.4,
+        2.1,
+        6.170000000000001
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 407,
+      "renderedTriangles": 247636,
+      "cpuSubmissionMs": 2.7000000029802322
+    },
+    {
+      "scenario": "panel",
+      "meshes": 151,
+      "triangles": 255122,
+      "actors": 5,
+      "pooledActors": 16,
+      "location": "television",
+      "ready": true,
+      "camera": [
+        1.09,
+        2.1,
+        10.170000000000002
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 389,
+      "renderedTriangles": 540448,
+      "cpuSubmissionMs": 3.2999999970197678
+    },
+    {
+      "scenario": "breaking",
+      "meshes": 144,
+      "triangles": 161522,
+      "actors": 3,
+      "pooledActors": 16,
+      "location": "television",
+      "ready": true,
+      "camera": [
+        0.55,
+        2.1,
+        8.170000000000002
+      ],
+      "orbit": [
+        9.600000000000001,
+        7.599999999999999,
+        11.4
+      ],
+      "drawCalls": 416,
+      "renderedTriangles": 352612,
+      "cpuSubmissionMs": 3.100000001490116
+    }
+  ],
+  "errors": []
+}

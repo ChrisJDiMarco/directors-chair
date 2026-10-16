@@ -1,0 +1,20 @@
+{
+  "name": "directors-chair",
+  "version": "0.2.0",
+  "private": true,
+  "description": "A cinematic 3D filmmaking teaching studio",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "check": "node --check main.cjs && node --check preload.cjs && node --check scene.js && node --check app.js && node tools/check.cjs",
+    "package": "electron-packager . 'The Directors Chair' --platform=darwin --arch=arm64 --out=dist --overwrite --prune=true --ignore='^/(dist|tools|design|evidence)($|/)' --icon=assets/AppIcon.icns --app-bundle-id=com.chrisdimarco.directorschair"
+  },
+  "dependencies": {
+    "three": "0.185.1"
+  },
+  "devDependencies": {
+    "electron": "44.2.0",
+    "@electron/packager": "20.3.0"
+  },
+  "type": "module"
+}

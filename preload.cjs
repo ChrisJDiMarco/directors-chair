@@ -1,0 +1,2 @@
+const {contextBridge,ipcRenderer}=require('electron');
+contextBridge.exposeInMainWorld('studio',{onHistory:callback=>ipcRenderer.on('history-command',(_event,direction)=>callback(direction)),autosave:data=>ipcRenderer.invoke('autosave',data),restore:()=>ipcRenderer.invoke('restore'),saveProject:data=>ipcRenderer.invoke('save-project',data),openProject:()=>ipcRenderer.invoke('open-project'),exportMedia:(kind,bytes)=>ipcRenderer.invoke('export-media',{kind,bytes})});

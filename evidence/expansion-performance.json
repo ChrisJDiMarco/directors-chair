@@ -1,0 +1,22 @@
+[
+  {
+    "mode": "stage",
+    "actors": 8,
+    "observedCallbackFPS": 119.7445449704917,
+    "medianFrameIntervalMs": 8.300000000000182,
+    "p95FrameIntervalMs": 8.5,
+    "meanCpuSubmissionMs": 5.748888889203469,
+    "maxDrawCalls": 1720,
+    "note": "Isolated Electron QA, warm static eight-actor scene. CPU submission and frame callbacks are not direct GPU timings."
+  },
+  {
+    "mode": "camera",
+    "actors": 8,
+    "observedCallbackFPS": 120.88650100690356,
+    "medianFrameIntervalMs": 8.300000000000182,
+    "p95FrameIntervalMs": 8.400000000000546,
+    "meanCpuSubmissionMs": 4.488888888888889,
+    "maxDrawCalls": 737,
+    "note": "Isolated Electron QA, warm static eight-actor scene. CPU submission and frame callbacks are not direct GPU timings."
+  }
+]

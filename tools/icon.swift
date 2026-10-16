@@ -1,0 +1,21 @@
+import AppKit
+let size=NSSize(width:1024,height:1024)
+let image=NSImage(size:size)
+image.lockFocus()
+let rect=NSRect(x:40,y:40,width:944,height:944)
+let shape=NSBezierPath(roundedRect:rect,xRadius:205,yRadius:205)
+NSColor(calibratedRed:0.075,green:0.105,blue:0.087,alpha:1).setFill();shape.fill()
+let inset=NSBezierPath(roundedRect:NSRect(x:62,y:62,width:900,height:900),xRadius:189,yRadius:189)
+NSColor(calibratedRed:0.47,green:0.39,blue:0.24,alpha:1).setStroke();inset.lineWidth=3;inset.stroke()
+let gold=NSColor(calibratedRed:0.83,green:0.66,blue:0.36,alpha:1)
+func line(_ a:NSPoint,_ b:NSPoint,_ width:CGFloat=24){let p=NSBezierPath();p.move(to:a);p.line(to:b);p.lineWidth=width;p.lineCapStyle = .round;gold.setStroke();p.stroke()}
+line(NSPoint(x:320,y:240),NSPoint(x:700,y:535),28)
+line(NSPoint(x:704,y:240),NSPoint(x:324,y:535),28)
+line(NSPoint(x:324,y:535),NSPoint(x:324,y:784),22)
+line(NSPoint(x:700,y:535),NSPoint(x:700,y:784),22)
+line(NSPoint(x:295,y:540),NSPoint(x:729,y:540),28)
+let back=NSBezierPath(roundedRect:NSRect(x:344,y:638,width:336,height:124),xRadius:8,yRadius:8);gold.setFill();back.fill()
+let seat=NSBezierPath(roundedRect:NSRect(x:344,y:471,width:336,height:39),xRadius:8,yRadius:8);seat.fill()
+image.unlockFocus()
+let bitmap=NSBitmapImageRep(data:image.tiffRepresentation!)!
+try bitmap.representation(using:.png,properties:[:])!.write(to:URL(fileURLWithPath:CommandLine.arguments[1]))
