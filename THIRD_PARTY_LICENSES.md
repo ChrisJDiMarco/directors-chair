@@ -9,6 +9,13 @@ License: assets/actors/LICENSE-Microsoft-Rocketbox.md
 
 Modifications: converted FBX to GLB in Blender, reconstructed PBR materials with supplied color/normal/opacity textures, posed at runtime, female clothing tint. Original geometry counts: female 4,570 vertices / 8,288 triangles, male 4,022 vertices / 7,312 triangles. Three material groups each: body, head, hair/opacity. Included maps remain local. These are approximate cast replacements, not exact recreations of the AI concept faces.
 
+## Casting reference images
+
+The avatar preview images in `design/` (Female_Adult_01-06 and 11, Male_Adult_02, 06 and 16) and `design/actor-candidates.jpg` (Rocketbox's `Docs/AvatarsSample.jpg`, renamed) are unmodified preview images from the Microsoft Rocketbox Avatar Library, used only to choose the cast.
+Copyright (c) 2020 Microsoft. MIT license.
+Source: https://github.com/microsoft/Microsoft-Rocketbox
+License: assets/actors/LICENSE-Microsoft-Rocketbox.md
+
 ## Software
 
 Three.js, copyright three.js authors, MIT (node_modules/three/LICENSE).
